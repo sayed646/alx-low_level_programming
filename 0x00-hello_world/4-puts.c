@@ -1,7 +1,6 @@
 #!/bin/bash
-gcc -c 0
 #include <studio.h>
-       int main(){
+       int main(void){
        int puts("Programming is like building a multilingual puzzle");
-       return=0
+       return(0);
        }
