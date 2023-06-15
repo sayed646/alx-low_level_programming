@@ -1,6 +1,8 @@
 #!/bin/bash
+
 #include <studio.h>
-       int main(void){
-       int puts("Programming is like building a multilingual puzzle");
+       int main(void)
+       {
+       int puts("\"Programming is like building a multilingual puzzle");
        return(0);
        }
