@@ -6,13 +6,16 @@
 int main(void)
 {
 	int n;
-        if (n > 0);
-	printf("n is grater than 0");
-	if else (n < 0);
-	printf("n is less than 0");
-	else (n = 0);
-	printf("n is 0");
 
-	return 0;
-
+	srand(time(0));
+	n = rand() - RAND_MAX / 2;
+	  if (n > 0);
+	     printf("%d is positive\n;" n);
+	  if else (n < 0);
+       	     printf("%d is negtive\n;" n);
+	  else (n = 0);
+             printf("%d is zero\n;" n);
+	     
+	/* your code goes there */
+	return (0);
 }
