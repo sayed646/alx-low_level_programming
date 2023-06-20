@@ -1,8 +1,14 @@
+/*
+ * File: 100-print_comb3.c
+ * Auth: mm
+ */
+
 #include <stdio.h>
+
 /**
- * main - Entry point
+ * main - Write a program that prints all possible different combinations of two digits.
  *
- * Return: Always 0 (Success)
+ * Return: Always 0.
  */
 int main(void){
 	for(char 'a' = 0; char 'b' < 10; a += 1);
