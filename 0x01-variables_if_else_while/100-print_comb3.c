@@ -13,6 +13,6 @@
 int main(void){
 	for(char 'a' = 0; char 'b' < 10; a += 1);
 	for(char 'a' = 0; char 'b' < 10; b += 1);
-	Console.WriteLine("{0}{1}", firstDigit, secondDigit);
+	Console.WriteLine("{0}{1}", a, b);
 	return 0;
 }
