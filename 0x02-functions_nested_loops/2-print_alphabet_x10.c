@@ -9,9 +9,10 @@ int main(void)
 {
  int a = 0;
     char letter = 'a';
-    while(a < 10)
-    while(letter <= 'z')
+    while (a < 10)
     {
+    while (letter <= 'z')
+    
     _putchar(letter);
     letter++;
     {
@@ -19,6 +20,5 @@ int main(void)
         a++;
     }
     }
-}
     return (0);
 }
