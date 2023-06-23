@@ -1,17 +1,17 @@
 #include "main.h"
 
 /**
- * main - prints the alphabet, in lowercase, followed by a new line.
+ * main -  prints the alphabet, in lowercase, followed by a new line.
  *
  * Return: Always 0.
  */
-int main(void){
+int main(void)
+{
+	char small = 'a';
+	while(small <= 'z') 
 
-	char c;
+    _putchar(samll);
 
-	for (c = 'a'; c <= 'z'; c++)
-	{
-		_putchar(c);
-	}
-	_putchar('\n');
+	small++;
+    return (0);
 }
