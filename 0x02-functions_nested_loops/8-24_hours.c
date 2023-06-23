@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - prints every minute of the day of Jack Bauer, starting
+ * jack_bauer - check the code for Holberton School students.
  *
  * Return: Always 0.
  */
